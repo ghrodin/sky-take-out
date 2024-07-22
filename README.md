@@ -1,15 +1,17 @@
-# 苍穹外卖
-## 管理端
-### 已完成模块
-* 员工管理
-* 分类管理
+# Sky-Take-Out
+## Management Side
+### Developed Module
+* employee management
+* category management
 
-### 待完成模块
-* 数据统计
-* 订单管理
-* 套餐管理
-* 菜品管理
+<br>
+
+### Developing Module
+* data statistics
+* oder management
+* package management
+* menu management
 
 
-## 用户端
-待开发...
+## User Side
+to be developed...
