@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: 123456
+  miniooss:
+   endpoint:  http://localhost:9000
+   access-key: GHRordin
+   secret-key: ezfbht7m
+   bucket-name: skytakeout
