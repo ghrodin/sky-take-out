@@ -30,4 +30,6 @@ public class ShopController {
         log.info("获取店铺营业状态{}", status == StatusConstant.ENABLE ? "营业中" : "打烊中");
         return Result.success(status);
     }
+
+
 }
